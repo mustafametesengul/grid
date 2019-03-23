@@ -1,6 +1,7 @@
 # Grid
 Grid is a 2D puzzle game for Android.
 
+Google Play Store Link:
 https://play.google.com/store/apps/details?id=com.studiophi.grid
 
 ![](https://lh3.googleusercontent.com/K176n-PvfNXdFyBdI3GCjmzfNtLzBDsOOFTSWyHVRpcQ9HsML3_Ur2Fbi27QojjbZw=w720-h310-rw)
